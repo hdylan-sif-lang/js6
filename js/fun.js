@@ -54,7 +54,7 @@ const puedeCruzar = nombre => nombre.length > 6;
 const calcularCostosDeEspadas = cantidadDeEspadas => cantidadDeEspadas * 10;
 
 console.log("¿Puedes cruzar Alexiño?: " +puedeCruzar("Alexiño"));
-conosle.log("Costo de 3 espadas: " + calcularCostosDeEspadas(3) + "monedas.");
+console.log("Costo de 3 espadas: " + calcularCostosDeEspadas(3) + "monedas.");
 
 
 (function(nombreDelAgente) {
