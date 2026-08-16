@@ -79,9 +79,3 @@ for (let ingrediente of ingredientes){
 }
 
 
-
-
-
-
-
-
