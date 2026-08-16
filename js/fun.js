@@ -65,7 +65,7 @@ console.log("Costo de 3 espadas: " + calcularCostosDeEspadas(3) + "monedas.");
 (function() {
     let ingredienteA = "polvo de estrella";
     let ingredienteB = "escencia de luna";
-    let ingredienteC = "posicionde clarividencia hecha con: " + ingredienteA + "y" + ingredienteB;
+    let posionFinal = "posicionde clarividencia hecha con: " + ingredienteA + "y" + ingredienteB;
     console.log("¡Experimento completado! se ha creado la: " + posionFinal);
 })();
 
